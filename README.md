@@ -20,3 +20,7 @@
  See the Working of CNN for RGB images
  ![RGB CNN](https://user-images.githubusercontent.com/18098938/129611038-6a0bdd6b-1066-4894-a554-f8d84cc6e60b.gif)
 
+## Model used in this project: Sequential
+1) I tranined model with 8 steps epoch per and 30 epoches are there.
+2) i got the acuray of 80.32 % 
+3) increased accuracy  to 88.52 % by doing transfer learning i.e. MobileNet 
