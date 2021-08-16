@@ -15,3 +15,8 @@
  
  see the working of CNN for gray scale image:
  ![CNN grey scale](https://user-images.githubusercontent.com/18098938/129610822-bb13a2cf-c7f7-4787-8ae5-448dd35314fb.JPG)
+ 
+ 
+ See the Working of CNN for RGB images
+ ![RGB CNN](https://user-images.githubusercontent.com/18098938/129611038-6a0bdd6b-1066-4894-a554-f8d84cc6e60b.gif)
+
